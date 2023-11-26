@@ -1,4 +1,5 @@
 ### Hi there 👋
+### welcome to Hakajin Technology. I officially started this website Hakajin.com on the 26th of Nov 2023.
 
 <!--
 **saamita/saamita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
